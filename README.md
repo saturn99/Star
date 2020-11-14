@@ -3,6 +3,9 @@
 
 
 
+----
+### Android
+- https://github.com/Genymobile/scrcpy (Display and control your Android device )
 
 ----
 ### Hack
