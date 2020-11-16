@@ -12,6 +12,8 @@
 ### Sec
 - https://github.com/sqlmapproject/sqlmap
 - https://github.com/dstotijn/hetty ( Hetty is an HTTP toolkit for security research. )
+- https://github.com/m4n3dw0lf/pythem ( pentest framework )
+- https://github.com/moonD4rk/HackBrowserData (Decrypt passwords/cookies/history/bookmarks from the browser.)
 ----
 ## TCP
 ### Notify
