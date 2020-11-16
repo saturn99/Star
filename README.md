@@ -4,12 +4,12 @@
 
 
 ----
-### Android
+## Android
 - https://github.com/Genymobile/scrcpy (Display and control your Android device )
 - https://github.com/shroudedcode/apk-mitm (A CLI application that automatically prepares Android APK files for HTTPS inspectio)
 
 ----
-### Sec
+## Sec
 - https://github.com/sqlmapproject/sqlmap
 - https://github.com/dstotijn/hetty ( Hetty is an HTTP toolkit for security research. )
 - https://github.com/m4n3dw0lf/pythem ( pentest framework )
@@ -28,11 +28,11 @@
 - https://github.com/asciimoo/wuzz ( Interactive cli tool for HTTP inspection )
 
 ----
-### Python
+## Python
 - https://github.com/0xbharath/art-of-packet-crafting-with-scapy (A workshop on Packet Crafting using Scapy. )
 
 ----
-### learn
+## learn
 - https://github.com/inancgumus/learngo (1000+ Hand-Crafted Go Examples, Exercises, and Quizzes)
 - https://github.com/sajjadium/PersianCatsCTF ( Collection of CTF "technical" writeups. )
 - https://github.com/learnbyexample/learn_perl_oneliners ( Example based guide for text processing with perl from the command line )
@@ -44,8 +44,7 @@
 - **G** https://github.com/andredumas/techan.js (A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3. )
 - https://github.com/Marak/faker.js ( generate massive amounts of realistic fake data in Node.js and the browser )
 
-----
-### FUZZ
+## FUZZ
 - https://github.com/xmendez/wfuzz
 - https://github.com/ffuf/ffuf
 
@@ -54,5 +53,5 @@
 - https://github.com/OWASP/IoTGoat (IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices. )
 
 ----
-### ElecTronic
+## ElecTronic
 - https://github.com/PaulStoffregen/SerialFlash ( Library for using SPI Flash memory with a filesystem-like interface )
