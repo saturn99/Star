@@ -7,14 +7,20 @@
 ## Android
 - https://github.com/Genymobile/scrcpy (Display and control your Android device )
 - https://github.com/shroudedcode/apk-mitm (A CLI application that automatically prepares Android APK files for HTTPS inspectio)
+- https://github.com/appium-boneyard/sign ( Sign.jar automatically signs an apk with the Android test certificate. )
 
 ----
 ## Sec
+### Tools
 - https://github.com/sqlmapproject/sqlmap
 - https://github.com/dstotijn/hetty ( Hetty is an HTTP toolkit for security research. )
 - https://github.com/m4n3dw0lf/pythem ( pentest framework )
 - https://github.com/moonD4rk/HackBrowserData (Decrypt passwords/cookies/history/bookmarks from the browser.)
 - https://github.com/jrmdev/mitm_relay (https://github.com/jrmdev/mitm_relay)
+- https://github.com/sherlock-project/sherlock ( Hunt down social media accounts by username across social networks )
+
+### CTF
+- https://github.com/aleeamini/Flareon7-2020 ( my write-ups for flareon7 )
 
 ----
 ## Crypto
