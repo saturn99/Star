@@ -44,7 +44,7 @@
 - **G** https://github.com/andredumas/techan.js (A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3. )
 - https://github.com/Marak/faker.js ( generate massive amounts of realistic fake data in Node.js and the browser )
 
-## FUZZ
+### FUZZ
 - https://github.com/xmendez/wfuzz
 - https://github.com/ffuf/ffuf
 
