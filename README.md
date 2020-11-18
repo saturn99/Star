@@ -53,7 +53,7 @@
 ### FUZZ
 - https://github.com/xmendez/wfuzz
 - https://github.com/ffuf/ffuf
-
+- https://github.com/microsoft/onefuzz (A self-hosted Fuzzing-As-A-Service platform )
 ----
 ## IOT
 - https://github.com/OWASP/IoTGoat (IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices. )
