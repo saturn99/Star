@@ -8,6 +8,8 @@
 - https://github.com/Genymobile/scrcpy (Display and control your Android device )
 - https://github.com/shroudedcode/apk-mitm (A CLI application that automatically prepares Android APK files for HTTPS inspectio)
 - https://github.com/appium-boneyard/sign ( Sign.jar automatically signs an apk with the Android test certificate. )
+- https://github.com/androguard/androguard (Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !) )
+
 
 ----
 ## Sec
@@ -19,6 +21,8 @@
 - https://github.com/jrmdev/mitm_relay (https://github.com/jrmdev/mitm_relay)
 - https://github.com/sherlock-project/sherlock ( Hunt down social media accounts by username across social networks )
 - https://github.com/Screetsec/Sudomy (Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting )
+- https://github.com/lanjelot/patator ( Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage. )
+
 
 ### CTF
 - https://github.com/aleeamini/Flareon7-2020 ( my write-ups for flareon7 )
@@ -40,6 +44,10 @@
 ----
 ## Python
 - https://github.com/0xbharath/art-of-packet-crafting-with-scapy (A workshop on Packet Crafting using Scapy. )
+
+----
+### Node Js
+- https://github.com/puppeteer/puppeteer ( Headless Chrome Node.js API )
 
 ----
 ## learn
@@ -66,3 +74,9 @@
 ----
 ## ElecTronic
 - https://github.com/PaulStoffregen/SerialFlash ( Library for using SPI Flash memory with a filesystem-like interface )
+- https://github.com/Gianbacchio/ESP8266-TelegramBot
+- https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot
+
+----
+## TG
+- https://github.com/telegraf/telegraf ( Modern Telegram Bot Framework for Node.js )
