@@ -23,6 +23,7 @@
 - https://github.com/Screetsec/Sudomy (Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting )
 - https://github.com/lanjelot/patator ( Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage. )
 - https://github.com/gcla/termshark ( A terminal UI for tshark, inspired by Wireshark )
+- https://github.com/ddz/whatsapp-media-decrypt ( Decrypt WhatsApp encrypted media files )
 
 ### Proxy
 - https://github.com/rhaidiz/broxy ( An HTTP/HTTPS intercept proxy written in Go. )
@@ -83,3 +84,7 @@
 ----
 ## TG
 - https://github.com/telegraf/telegraf ( Modern Telegram Bot Framework for Node.js )
+
+----
+## Tools 
+- https://github.com/geongeorge/i-hate-regex ( The Regex Cheat Sheet )
