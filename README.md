@@ -22,7 +22,10 @@
 - https://github.com/sherlock-project/sherlock ( Hunt down social media accounts by username across social networks )
 - https://github.com/Screetsec/Sudomy (Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting )
 - https://github.com/lanjelot/patator ( Patator is a multi-purpose brute-forcer, with a modular design and a flexible usage. )
+- https://github.com/gcla/termshark ( A terminal UI for tshark, inspired by Wireshark )
 
+### Proxy
+- https://github.com/rhaidiz/broxy ( An HTTP/HTTPS intercept proxy written in Go. )
 
 ### CTF
 - https://github.com/aleeamini/Flareon7-2020 ( my write-ups for flareon7 )
