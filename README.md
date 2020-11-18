@@ -18,6 +18,7 @@
 - https://github.com/moonD4rk/HackBrowserData (Decrypt passwords/cookies/history/bookmarks from the browser.)
 - https://github.com/jrmdev/mitm_relay (https://github.com/jrmdev/mitm_relay)
 - https://github.com/sherlock-project/sherlock ( Hunt down social media accounts by username across social networks )
+- https://github.com/Screetsec/Sudomy (Sudomy is a subdomain enumeration tool to collect subdomains and analyzing domains performing automated reconnaissance (recon) for bug hunting / pentesting )
 
 ### CTF
 - https://github.com/aleeamini/Flareon7-2020 ( my write-ups for flareon7 )
@@ -32,6 +33,9 @@
 ### Notify
 - https://github.com/gotify/server (GO)
 - https://github.com/asciimoo/wuzz ( Interactive cli tool for HTTP inspection )
+
+### tools
+- https://github.com/httpie/httpie (...user-friendly command-line HTTP client for the API era...)
 
 ----
 ## Python
@@ -54,6 +58,7 @@
 - https://github.com/xmendez/wfuzz
 - https://github.com/ffuf/ffuf
 - https://github.com/microsoft/onefuzz (A self-hosted Fuzzing-As-A-Service platform )
+
 ----
 ## IOT
 - https://github.com/OWASP/IoTGoat (IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices. )
