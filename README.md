@@ -30,7 +30,7 @@
 
 ### CTF
 - https://github.com/aleeamini/Flareon7-2020 ( my write-ups for flareon7 )
-
+- https://github.com/PlatyPew/picoctf-2018-writeup ( Writeup for picoCTF 2018 )
 ----
 ## Crypto
 - https://github.com/FiloSottile/mkcert ( A simple zero-config tool to make locally trusted development certificates with any names you'd like. )
@@ -88,3 +88,8 @@
 ----
 ## Tools 
 - https://github.com/geongeorge/i-hate-regex ( The Regex Cheat Sheet )
+
+----
+## etc
+- https://github.com/bytedance/IconPark ( Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons )
+- https://github.com/akveo/eva-icons ( A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. )
