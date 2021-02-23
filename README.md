@@ -59,6 +59,7 @@
 - https://github.com/inancgumus/learngo (1000+ Hand-Crafted Go Examples, Exercises, and Quizzes)
 - https://github.com/sajjadium/PersianCatsCTF ( Collection of CTF "technical" writeups. )
 - https://github.com/learnbyexample/learn_perl_oneliners ( Example based guide for text processing with perl from the command line )
+- https://github.com/inancgumus/learngo (learn go)
 
 ----
 ## WEB
