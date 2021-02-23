@@ -48,6 +48,7 @@
 ----
 ## Python
 - https://github.com/0xbharath/art-of-packet-crafting-with-scapy (A workshop on Packet Crafting using Scapy. )
+- https://github.com/TheAlgorithms/Python (algoritms-1)
 
 ----
 ### Node Js
