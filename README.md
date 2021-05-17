@@ -49,6 +49,7 @@
 ## Python
 - https://github.com/0xbharath/art-of-packet-crafting-with-scapy (A workshop on Packet Crafting using Scapy. )
 - https://github.com/TheAlgorithms/Python (algoritms-1)
+- https://github.com/tqdm/tqdm (A Fast, Extensible Progress Bar for Python and CLI )
 
 ----
 ### Node Js
