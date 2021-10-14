@@ -36,6 +36,9 @@
 - https://github.com/FiloSottile/mkcert ( A simple zero-config tool to make locally trusted development certificates with any names you'd like. )
 - **G** https://github.com/FiloSottile/age ( A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. )
 
+## Reverse Engineering
+- https://github.com/rizinorg/cutter (Free and Open Source Reverse Engineering Platform powered by rizin )
+
 ----
 ## TCP
 ### Notify
