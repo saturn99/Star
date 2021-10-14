@@ -101,6 +101,10 @@
 - https://github.com/achannarasappa/ticker (ticker - cmd)
 
 ----
+# data scince
+- **G** https://github.com/harelba/q (  q - Run SQL directly on CSV or TSV files  )
+
+----
 ## etc
 - https://github.com/bytedance/IconPark ( Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons )
 - https://github.com/akveo/eva-icons ( A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support. )
