@@ -37,6 +37,7 @@
 - **G** https://github.com/FiloSottile/age ( A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. )
 
 ## Reverse Engineering
+- https://github.com/rizinorg/rizin ( UNIX-like reverse engineering framework and command-line toolset.  )
 - https://github.com/rizinorg/cutter (Free and Open Source Reverse Engineering Platform powered by rizin )
 
 ----
