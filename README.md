@@ -57,6 +57,7 @@
 ----
 ### Node Js
 - https://github.com/puppeteer/puppeteer ( Headless Chrome Node.js API )
+- https://github.com/microsoft/playwright ( Node.js library to automate Chromium, Firefox and WebKit with a single API  )
 
 ----
 ## learn
