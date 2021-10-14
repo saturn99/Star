@@ -101,7 +101,7 @@
 - https://github.com/achannarasappa/ticker (ticker - cmd)
 
 ----
-# data scince
+# data science
 - **G** https://github.com/harelba/q (  q - Run SQL directly on CSV or TSV files  )
 
 ----
